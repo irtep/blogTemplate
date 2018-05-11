@@ -1,2 +1,1 @@
-# blogTemplate
-Blog template that i made with react
+#This will be a blog :)
